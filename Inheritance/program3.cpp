@@ -1,4 +1,5 @@
 //Default constructor of base class is called first
+//Basic inheritance
 
 #include<iostream>
 using namespace std;
